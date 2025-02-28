@@ -60,5 +60,5 @@ The logistic regression model is highly recommended for use by the company due t
 However, the company may want to explore further optimization techniques to improve the precision for high-risk loans, reducing false positives. But overall, this model is a robust solution for credit risk classification and should serve the company's needs effectively.
 
 ### Next Steps:
-- Experiment with other classification algorithms (e.g., Random Forest, SVM) to potentially improve precision for high-risk loans.
+- Experiment with other classification algorithms to potentially improve precision for high-risk loans.
 - Investigate strategies for handling class imbalance (as there are more healthy loans than high-risk loans in the dataset).
